@@ -165,6 +165,7 @@ h1 {
 .google-play,
 a, 
 .app-store {
+    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: center;
