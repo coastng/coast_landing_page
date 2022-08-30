@@ -162,7 +162,8 @@ h1 {
     display: flex;
     gap: 5px;
 }
-.google-play, 
+.google-play,
+a, 
 .app-store {
     display: flex;
     align-items: center;
