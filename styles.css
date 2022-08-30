@@ -163,7 +163,7 @@ h1 {
     gap: 5px;
 }
 .google-play,
-a, 
+a.google-play, 
 .app-store {
     text-decoration: none;
     display: flex;
