@@ -13,10 +13,10 @@
 			alt="App screenshot"
 		/>
 		<div class="max-w-md">
-			<h1 class="text-5xl font-bold text-center md:text-left">Trade at Unbeatable Rates</h1>
+			<h1 class="text-5xl font-bold text-center md:text-left">Trade at mouth-watering Rates</h1>
 			<p class="py-6 text-sm md:text-lg">
-				Your one-stop shop for trading your giftcard and crypto solutions at amazing rates, and
-				fast, no-nonsense, no-delay trade response times.
+				Your one-stop platform for Trading All Giftcards. Nice rates that would sweep you off your
+				feets, Quick Trade Response time With Instant Pay Outs.
 			</p>
 			<div class="text-center flex flex-col gap-2 md:text-left md:flex-row">
 				<button

@@ -24,10 +24,10 @@
 		</figure>
 		<div class="card-body prose mx-auto">
 			<article>
-				We are working on an amazing platform for you to trade your crypto at amazing rates, so
-				watch this space. At the moment, you can trade your crypto with Coast using our WhatsApp
-				platform.
-				<p>We make it safe and easy to buy and sell your crypto with little or no experience.</p>
+				WE ARE WORKING ON AN AMAZING PLATFORM FOR YOU TO TRADE YOUR CRYPTO AT AMAZING RATES, SO
+				WATCH THIS SPACE. AT THE MOMENT, YOU CAN TRADE YOUR CRYPTO WITH COAST USING OUR WHATSAPP
+				PLATFORM.
+				<p>WE MAKE IT SAFE AND EASY TO BUY AND SELL YOUR CRYPTO WITH LITTLE OR NO EXPERIENCE.</p>
 				<div class="text-center">
 					<a
 						href="https://wa.me/message/UHDYTUWMJQUOG1"
