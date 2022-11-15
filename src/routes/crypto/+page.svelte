@@ -16,7 +16,7 @@
 
 <div class="container mx-auto lg:p-10 m-4">
 	<div class="prose prose-lg mx-auto">
-		<h1 class="text-center pb-6 text-primary">TRADE CRYPTO (BTC/USDT/ETH...) WITH COAST</h1>
+		<h2 class="text-center pb-6 text-primary">TRADE CRYPTO (BTC/USDT/ETH...) WITH COAST</h2>
 	</div>
 	<div class="m-auto card card-bordered lg:border-t-4 shadow-xl">
 		<figure>
