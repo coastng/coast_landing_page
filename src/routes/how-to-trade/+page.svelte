@@ -64,6 +64,7 @@
 
 <svelte:head>
 	<title>How To Trade</title>
+	<meta name="description" content="Learn about how to trade on the Coast platform." />
 </svelte:head>
 
 <Header selectedIndex={0} />

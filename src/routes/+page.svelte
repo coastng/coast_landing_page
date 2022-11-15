@@ -9,6 +9,10 @@
 
 <svelte:head>
 	<title>Coast - Sell Giftcards</title>
+	<meta
+		name="description"
+		content="Trade giftcards and crypto on the Coast platform. Fast, safe and easy"
+	/>
 </svelte:head>
 
 <div class="bg-slate-100">

@@ -6,6 +6,10 @@
 
 <svelte:head>
 	<title>Coast | Crypto</title>
+	<meta
+		name="description"
+		content="We make it safe and easy to buy and sell your crypto with little to no experience."
+	/>
 </svelte:head>
 
 <Header selectedIndex={5} />

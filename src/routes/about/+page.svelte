@@ -5,6 +5,10 @@
 
 <svelte:head>
 	<title>About Coast</title>
+	<meta
+		name="description"
+		content="Coast NG is a platform to trade Digital Assets and get your Utility payment solutions."
+	/>
 </svelte:head>
 
 <Header selectedIndex={1} />
@@ -17,7 +21,7 @@
 		<figure><img class="lg:h-1/2 sm:h-1/2" src="/coast_logo.png" alt="Coast Logo" /></figure>
 		<div class="card-body prose mx-auto">
 			<article>
-				Coast NG is a place to trade Digital Assets and get your Utility payment solutions.
+				Coast NG is a platform to trade Digital Assets and get your Utility payment solutions.
 				<p>
 					Alongside, we are 100% committed to providing you with swift and secured payments on all
 					your transactions. Offering you our best trait which is reliability and trustworthiness.

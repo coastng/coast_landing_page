@@ -8,6 +8,7 @@
 
 <svelte:head>
 	<title>FAQs</title>
+	<meta name="description" content="Learn more about Coast.NG." />
 </svelte:head>
 
 <Header selectedIndex={2} />
