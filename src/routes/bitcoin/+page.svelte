@@ -5,10 +5,10 @@
 </script>
 
 <svelte:head>
-	<title>Coast | Crypto</title>
+	<title>Coast | Bitcoin</title>
 	<meta
 		name="description"
-		content="We make it safe and easy to buy and sell your crypto with little to no experience."
+		content="We make it safe and easy to buy and sell your bitcoin with little to no experience."
 	/>
 </svelte:head>
 
@@ -16,7 +16,7 @@
 
 <div class="container mx-auto lg:p-10 m-4">
 	<div class="prose prose-lg mx-auto">
-		<h2 class="text-center pb-6 text-primary">TRADE CRYPTO (BTC/USDT/ETH...) WITH COAST</h2>
+		<h2 class="text-center pb-6 text-primary">TRADE BITCOIN (BTC) WITH COAST</h2>
 	</div>
 	<div class="m-auto card card-bordered lg:border-t-4 shadow-xl">
 		<figure>
@@ -24,10 +24,10 @@
 		</figure>
 		<div class="card-body prose mx-auto">
 			<article>
-				We are working on an amazing platform for you to trade your crypto at amazing rates, so
-				watch this space. At the moment, you can trade your crypto with Coast using our WhatsApp
+				We are working on an amazing platform for you to trade your bitcoin at amazing rates, so
+				watch this space. At the moment, you can trade your bitcoin with Coast using our WhatsApp
 				platform.
-				<p>We make it safe and easy to buy and sell your crypto with little or no experience.</p>
+				<p>We make it safe and easy to buy and sell your bitcoin with little or no experience.</p>
 				<div class="text-center">
 					<a
 						href="https://wa.me/message/UHDYTUWMJQUOG1"
