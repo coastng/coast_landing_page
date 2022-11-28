@@ -19,22 +19,28 @@
 				feets, Quick Trade Response time With Instant Pay Outs.
 			</p>
 			<div class="text-center flex flex-col gap-2 md:text-left md:flex-row">
-				<button
+				<a
 					class="btn bg-black border-black hover:bg-white hover:text-black hover:border-black"
+					href="https://play.google.com/store/apps/details?id=ng.coast.app"
+					target="_blank"
+					rel="noreferrer"
 				>
 					<span class="mr-2">
 						<GooglePlayIcon width={24} height={24} />
 					</span>
 					Download
-				</button>
-				<button
+				</a>
+				<a
 					class="btn bg-black border-black hover:bg-white hover:text-black hover:border-black group"
+					href="https://coast.ng"
+					target="_blank"
+					rel="noreferrer"
 				>
 					<span class="mr-2">
 						<AppStoreIcon width={32} height={32} />
 					</span>
 					Download
-				</button>
+				</a>
 			</div>
 		</div>
 	</div>
