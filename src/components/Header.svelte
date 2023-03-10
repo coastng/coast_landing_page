@@ -53,6 +53,7 @@
 				tabindex="0"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
+				<HeaderNavItem title="Blog" link="https://blog.coast.ng" selected={selectedIndex === 200} />
 				<HeaderNavItem title="How To Trade" link="/how-to-trade" selected={selectedIndex === 0} />
 				<HeaderNavItem title="About" link="/about" selected={selectedIndex === 1} />
 				<HeaderNavItem title="FAQs" link="/#faqs" selected={selectedIndex === 2} />
@@ -64,6 +65,7 @@
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0">
+			<HeaderNavItem title="Blog" link="https://blog.coast.ng" selected={selectedIndex === 200} />
 			<HeaderNavItem title="How To Trade" link="/how-to-trade" selected={selectedIndex === 0} />
 			<HeaderNavItem title="About" link="/about" selected={selectedIndex === 1} />
 			<HeaderNavItem title="FAQs" link="/#faqs" selected={selectedIndex === 2} />
